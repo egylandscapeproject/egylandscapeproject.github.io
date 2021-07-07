@@ -10,6 +10,10 @@ avatar: "/assets/images/teamMembers/nicolas_michel.jpg"
 layout: single
 ---
 
+### EGYLandscape Working Paper(s)
+
+[*Recent Publications on the Environmental History of Egypt*](https://www.egylandscape.org/papers/December2020_Michel/)
+
 ### Recent Publications
 <a href="https://www.peeters-leuven.be/detail.php?search_key=9789042934795&series_number_str=23&lang=en">L’Égypte des villages autour du seizième siècle</a> (Leuven: Peeters, 2018)
 
