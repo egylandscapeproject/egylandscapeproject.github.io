@@ -5,11 +5,11 @@ toc: true
 toc_sticky: true
 layout: single
 gallery:
-  - url: /assets/images/2019_MESA_NewOrleans_002.jpg
-    image_path: /assets/images/2019_MESA_NewOrleans_002.jpg
+  - url: /assets/images/conferences/2019_MESA_NewOrleans_002.jpg
+    image_path: /assets/images/conferences/2019_MESA_NewOrleans_002.jpg
     alt: "placeholder image 1"
-  - url: /assets/images/2019_MESA_NewOrleans_001.jpeg
-    image_path: /assets/images/2019_MESA_NewOrleans_001.jpeg
+  - url: /assets/images/conferences/2019_MESA_NewOrleans_001.jpeg
+    image_path: /assets/images/conferences/2019_MESA_NewOrleans_001.jpeg
     alt: "placeholder image 2"
 ---
 
