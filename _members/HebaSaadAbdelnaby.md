@@ -11,6 +11,10 @@ toc_sticky: false
 layout: single
 ---
 
+### EGYLandscape Working Paper(s)
+
+[*“And Meat of Birds that They May Desire”*](https://www.egylandscape.org/papers/October2020_AbdelNaby/)
+
 ### Recent Publications
 
 "Where did the Mamluk sultan spend his vacation?," *International Journal of Heritage, Tourism, and Hospitality* (2020): pp. 33-48.
