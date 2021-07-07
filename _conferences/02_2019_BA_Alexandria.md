@@ -5,17 +5,17 @@ toc: true
 toc_sticky: true
 layout: single
 gallery:
-  - url: /activities/2019_BA_Alexandria_001.jpg
-    image_path: /activities/2019_BA_Alexandria_001.jpg
+  - url: /assets/images/conferences/2019_BA_Alexandria_001.jpg
+    image_path: /assets/images/conferences/2019_BA_Alexandria_001.jpg
     alt: "placeholder image 1"
-  - url: /activities/2019_BA_Alexandria_002.jpg
-    image_path: /activities/2019_BA_Alexandria_002.jpg
+  - url: /assets/images/conferences/2019_BA_Alexandria_002.jpg
+    image_path:/assets/images/conferences/2019_BA_Alexandria_002.jpg
     alt: "placeholder image 2"
-  - url: /activities/2019_BA_Alexandria_003.jpg
-    image_path: /activities/2019_BA_Alexandria_003.jpg
+  - url: /assets/images/conferences/2019_BA_Alexandria_003.jpg
+    image_path:/assets/images/conferences/2019_BA_Alexandria_003.jpg
     alt: "placeholder image 3"
-  - url: /activities/2019_BA_Alexandria_004.jpg
-    image_path: /activities/2019_BA_Alexandria_004.jpg
+  - url: /assets/images/conferences/2019_BA_Alexandria_004.jpg
+    image_path: /assets/images/conferences/2019_BA_Alexandria_004.jpg
     alt: "placeholder image 4"
 ---
 
