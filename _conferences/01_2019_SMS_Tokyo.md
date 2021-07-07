@@ -8,7 +8,7 @@ gallery:
   - url: /assets/images/conferences/2019_SMS_Tokyo_001.JPG
     image_path: /assets/images/conferences/2019_SMS_Tokyo_001.JPG
     alt: "placeholder image 1"
-  - url:/assets/images/conferences/2019_SMS_Tokyo_002.JPG
+  - url: /assets/images/conferences/2019_SMS_Tokyo_002.JPG
     image_path: /assets/images/conferences/2019_SMS_Tokyo_002.JPG
     alt: "placeholder image 2"
 ---
