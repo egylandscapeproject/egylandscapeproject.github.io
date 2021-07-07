@@ -12,7 +12,7 @@ layout: single
 
 ### EGYLandscape Working Paper(s)
 
-[*Waqfization in the late Mamluk Empire: A deliberate policy or chaos management?*](https://mhshaaban.github.io/minimal-mistakes/papers/June2020_Fuess/)
+[*Waqfization in the late Mamluk Empire: A deliberate policy or chaos management?*](https://www.egylandscape.org/papers/June2020_Fuess/)
 
 ### Recent Publications
 
