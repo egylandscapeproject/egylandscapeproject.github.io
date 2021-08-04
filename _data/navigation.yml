@@ -17,9 +17,9 @@ main:
   - title: Research
     sublinks:
       - title: "Working Papers"
-      url: /papers/
+        url: /papers/
       - title: "Bibliography"
-      url: /bibliography/
+        url: /bibliography/
   - title: "Blog"
     url: /blog/
   - title: "Contact Us"
