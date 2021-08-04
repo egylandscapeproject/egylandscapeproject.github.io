@@ -2,7 +2,7 @@
 title: "Waqfization in the late Mamluk Empire: A deliberate policy or chaos management? "
 excerpt: "Albrecht Fuess"
 institution: "Philipps-Universität Marburg"
-avatar: "/assets/images/working_paper_avatars1.jpg"
+avatar: "/assets/images/working_paper_avatars1.png"
 author_profile: false
 type: "Working Paper"
 toc: true
