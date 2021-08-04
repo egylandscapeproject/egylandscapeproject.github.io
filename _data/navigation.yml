@@ -14,8 +14,12 @@ main:
         url: /workshops/
       - title: "Conferences"
         url: /conferences/
-  - title: "Working Papers"
-    url: /papers/
+  - title: Research
+    sublinks:
+      - title: "Working Papers"
+      url: /papers/
+      - title: "Bibliography"
+      url: /bibliography/
   - title: "Blog"
     url: /blog/
   - title: "Contact Us"
