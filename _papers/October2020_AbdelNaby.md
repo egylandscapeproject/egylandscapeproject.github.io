@@ -2,6 +2,7 @@
 title: “And Meat of Birds that They May Desire”
 excerpt: "Heba AbdelNaby"
 institution: "Alexandria University"
+avatar: "/assets/images/working_paper_avatars2.png"
 author_profile: false
 type: "Working Paper"
 toc: true
