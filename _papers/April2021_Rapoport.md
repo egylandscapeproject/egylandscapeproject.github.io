@@ -2,6 +2,7 @@
 title: "Al-Qalqashandī's Lost Tribes: Mamluk Genealogy, Identity and Administration"
 excerpt: "Yossef Rapoport"
 institution: "Queen Mary University of London"
+avatar: "/assets/images/working_paper_avatars4.png"
 author_profile: false
 type: "Working Paper"
 toc: true
