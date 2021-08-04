@@ -2,6 +2,7 @@
 title: "Recent Publications on the Environmental History of Egypt"
 excerpt: "Nicolas Michel"
 institution: "Philipps-Universität Marburg"
+avatar: "/assets/images/working_paper_avatars2.png"
 author_profile: false
 type: "Working Paper"
 toc: true
