@@ -2,7 +2,7 @@
 title: "Relics and the Religious Topography of Islamic Cairo"
 excerpt: "Richard McGregor"
 institution: "Vanderbilt University"
-avatar: "/assets/images/lectures/richardmcGregor.png"
+avatar: "/assets/images/lectures/richardmcgregor.png"
 author_profile: false
 date: 2021-06-21
 layout: single
