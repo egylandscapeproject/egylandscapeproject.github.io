@@ -12,7 +12,7 @@ A select bibliography of recent publications by project team members. Publicatio
 
 <hr />
 
-<h4 href="https://www.egylandscape.org/members/HebaSaadAbdelnaby/" style="display: inline;">Heba Mahmoud Saad AbdelNaby</h4>, *Birds in Mamluk Egypt: A study of social, environmental, and art history \[In Arabic\]*, (Cairo: 'Ayn for Humanities and Social Studies, 2021).
+<h4 href="https://www.egylandscape.org/members/HebaSaadAbdelnaby/" style="display:inline">Heba Mahmoud Saad AbdelNaby</h4>, *Birds in Mamluk Egypt: A study of social, environmental, and art history \[In Arabic\]*, (Cairo: 'Ayn for Humanities and Social Studies, 2021).
 
 ---, "'And Meat of Birds that They May Desire," *EGYLandscape Project Working Paper 2*, The EGYLandscape Project (October 2020).
 
