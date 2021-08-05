@@ -1,7 +1,7 @@
 ---
 title: "Inaugural Workshop of the EGYLandscape Project"
 excerpt: "Sources, Methods, and Tools - 2019"
-avatar: "/assets/images/conference_avatar_cairo.png"
+avatar: "/assets/images/conference_avatar_marburg.png"
 toc: true
 toc_sticky: true
 institution: "Philipps Universität-Marburg"
