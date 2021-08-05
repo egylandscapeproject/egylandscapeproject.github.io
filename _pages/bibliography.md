@@ -12,11 +12,11 @@ A select bibliography of recent publications by project team members. Publicatio
 
 <hr />
 
-<h4>[Heba Mahmoud Saad AbdelNaby](https://www.egylandscape.org/members/HebaSaadAbdelnaby/)</h4>, *Birds in Mamluk Egypt: A study of social, environmental, and art history \[In Arabic\]*, (Cairo: 'Ayn for Humanities and Social Studies, 2021).
+<h4 href="https://www.egylandscape.org/members/HebaSaadAbdelnaby/">Heba Mahmoud Saad AbdelNaby</h4>, *Birds in Mamluk Egypt: A study of social, environmental, and art history \[In Arabic\]*, (Cairo: 'Ayn for Humanities and Social Studies, 2021).
 
 ---, "'And Meat of Birds that They May Desire," *EGYLandscape Project Working Paper 2*, The EGYLandscape Project (October 2020).
 
-<h4>[Emad Badr al-Din Abu Ghazi](https://www.egylandscape.org/members/EmadAbuGhazi/)</h4>, On the social history of Egypt: the development of landholding in the age of the Circassian Mamluks *\[In
+<h4 href="https://www.egylandscape.org/members/EmadAbuGhazi/">Emad Badr al-Din Abu Ghazi</h4>, On the social history of Egypt: the development of landholding in the age of the Circassian Mamluks *\[In
 Arabic\]*, (Cairo: 'Ayn for Humanities and Social Studies, 2000).
 
 [Ghislaine Alleaume](https://www.egylandscape.org/members/GhislaineAlleaume/), "Les voyages d'un paradigme: la réforme et ses usages (Égypte, XIXe et XXe siècles)," *Égypte/Monde Arabe* 20 (2019): pp. 19-36.
