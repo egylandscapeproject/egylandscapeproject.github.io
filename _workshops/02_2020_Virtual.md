@@ -1,7 +1,7 @@
 ---
 title: "Second Workshop of the EGYLandscape Project"
 excerpt: "Next Steps - 2020"
-avatar: "/assets/images/second_workshop_avatar.jpg"
+avatar: "/assets/images/conference_avatar_virtual.png"
 institution: "A Virtual Gathering"
 toc: true
 toc_sticky: true
