@@ -4,7 +4,6 @@ excerpt: "Mohamed Gamal-Eldin"
 institution: "New Jersey Institute of Technology"
 avatar: "/assets/images/lectures/mohamedgameledin.png"
 author_profile: false
-type: "Working Paper"
 date: 2021-05-22
 layout: single
 ---
