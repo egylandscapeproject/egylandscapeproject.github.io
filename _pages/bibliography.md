@@ -2,6 +2,9 @@
 title: "Bibliography"
 excerpt: "A list of publications by EGYLandscape Team members"
 layout: single
+toc: true
+toc_label: "Authors"
+toc_sticky: true
 permalink: /bibliography/
 ---
 
@@ -9,11 +12,11 @@ A select bibliography of recent publications by project team members. Publicatio
 
 <hr />
 
-[Heba Mahmoud Saad AbdelNaby](https://www.egylandscape.org/members/HebaSaadAbdelnaby/), *Birds in Mamluk Egypt: A study of social, environmental, and art history \[In Arabic\]*, (Cairo: 'Ayn for Humanities and Social Studies, 2021).
+### [Heba Mahmoud Saad AbdelNaby](https://www.egylandscape.org/members/HebaSaadAbdelnaby/) ###, *Birds in Mamluk Egypt: A study of social, environmental, and art history \[In Arabic\]*, (Cairo: 'Ayn for Humanities and Social Studies, 2021).
 
 ---, "'And Meat of Birds that They May Desire," *EGYLandscape Project Working Paper 2*, The EGYLandscape Project (October 2020).
 
-[Emad Badr al-Din Abu Ghazi](https://www.egylandscape.org/members/EmadAbuGhazi/), On the social history of Egypt: the development of landholding in the age of the Circassian Mamluks *\[In
+### [Emad Badr al-Din Abu Ghazi](https://www.egylandscape.org/members/EmadAbuGhazi/) ###, On the social history of Egypt: the development of landholding in the age of the Circassian Mamluks *\[In
 Arabic\]*, (Cairo: 'Ayn for Humanities and Social Studies, 2000).
 
 [Ghislaine Alleaume](https://www.egylandscape.org/members/GhislaineAlleaume/), "Les voyages d'un paradigme: la réforme et ses usages (Égypte, XIXe et XXe siècles)," *Égypte/Monde Arabe* 20 (2019): pp. 19-36.
@@ -25,10 +28,10 @@ Arabic\]*, (Cairo: 'Ayn for Humanities and Social Studies, 2000).
 [Stuart Borsch](https://www.egylandscape.org/members/StuartBorsch/), "The Black Death and the Human Impact on the Environment," in *Historical Disaster Experiences: Towards a Comparative and Transcultural History of Disasters Across Asia and Europe*, Transcultural Research -- Heidelberg Studies on Asia and Europe in a
 Global Context, ed. by Gerrit Schenk (Cham: Springer, 2017): pp. 93-106.
 
-Stuart Borsch and Tarek Sabraa, "Qānūn al-Riyy: The Water Law of Egypt," *Sophia Journal of Asian, African, and Middle Eastern Studies* 35
+--- & Tarek Sabraa, "Qānūn al-Riyy: The Water Law of Egypt," *Sophia Journal of Asian, African, and Middle Eastern Studies* 35
 (2017): pp. 87-124.
 
-Stuart Borsch and Tarek Sabraa, "Refugees of the Black Death: Quantifying rural migration for plague and other environmental disasters," *Annales de démographie historique* 2 (2017): pp. 63-93.
+--- & Tarek Sabraa, "Refugees of the Black Death: Quantifying rural migration for plague and other environmental disasters," *Annales de démographie historique* 2 (2017): pp. 63-93.
 
 [Albrecht Fuess](https://www.egylandscape.org/members/AlbrechtFuess/), "How to Cope with the Scarcity of Commodities? The Mamluks' Quest for Metal," in *The Mamluk Sultanate from the Perspective of Regional and World History*, ed. by Reuven Amitai and Stephan Conermann (Göttingen: V&R Unipress, 2019): pp. 61-74.
 
@@ -44,11 +47,11 @@ Stuart Borsch and Tarek Sabraa, "Refugees of the Black Death: Quantifying rural 
 
 [Alison L. Gascoigne](https://www.egylandscape.org/members/AlisonGascoigne/) and John P. Cooper, "Tinkers, tailors, soldiers and sailors: the city of Tinnis in the 11th-13th centuries," in *Guerre et Paix au Proche-Orient Médiéval, vol. II: Histoire. Archéologie. Anthropologie*, ed. by Mathieu Eychenne, Stéphane Pradines, and Abbès Zouache (Cairo: l\'Institut français d\'archéologie orientale, 2019).
 
-Alison Gascoigne, Between the dams: the forgotten medieval archaeology of the first Nile cataract, *Al-'Usur al-Wusta, the Bulletin of Middle East Medievalists*, *20*(2) (2008): pp. 37-45.
+---, Between the dams: the forgotten medieval archaeology of the first Nile cataract, *Al-'Usur al-Wusta, the Bulletin of Middle East Medievalists*, *20*(2) (2008): pp. 37-45.
 
 ---, *The Island City of Tinnis: A Postmortem*. (Cairo: l\'Institut français d\'archéologie orientale, 2020).
 
-Alison Gascoigne, Leonie V. Hicks and Marianne O'Doherty, eds., *Journeying Along Medieval Routes in Europe and the Middle East*, (Turnhout: Brepols, 2016).
+--- , Leonie V. Hicks & Marianne O'Doherty, eds., *Journeying Along Medieval Routes in Europe and the Middle East*, (Turnhout: Brepols, 2016).
 
 [Magdi Guirguis](https://www.egylandscape.org/members/MagdiGuirguis/), "A decree of Alghuri al-Baramus Monastery and conflict
 over property in al-Nahraryyia \[in Arabic\]," *Annales Islamologiques*
@@ -85,15 +88,15 @@ Period," *Mamluk Studies Review*, 18 (2014-2015): pp. 279-299.
 
 [Anthony T. Quickel](https://www.egylandscape.org/members/AnthonyQuickel/) and Gregory Williams, "In Search of *Sibākh*: Digging Up Egypt from Antiquity to the Present Day," *Journal of Islamic Archaeology* 3(1), (2016): pp. 89-108.
 
-[Anthony T. Quickel](https://www.egylandscape.org/members/AnthonyQuickel/), "A Medieval Garden City: Mamluk Cairo's Food Supplies and Urban Landscape," in *Living with Nature and Things: Contributions to a New Social History of the Middle Islamic Periods*, eds. Bethany J. Walker and Abdelkader al-Ghouz (Bonn: V&R Unipress, 2020): pp. 33-48.
+---, "A Medieval Garden City: Mamluk Cairo's Food Supplies and Urban Landscape," in *Living with Nature and Things: Contributions to a New Social History of the Middle Islamic Periods*, eds. Bethany J. Walker and Abdelkader al-Ghouz (Bonn: V&R Unipress, 2020): pp. 33-48.
 
 [Yossef Rapoport](https://www.egylandscape.org/members/YossefRapoport/), *Islamic Maps*, (Oxford: Bodleian Library, 2019).
 
-[Yossef Rapoport](https://www.egylandscape.org/members/YossefRapoport/) and Emily Savage-Smith *Lost Maps of the Caliphs: Drawing the World in Eleventh-Century Cairo*, (Chicago: University of Chicago Press, 2018).
+--- &  Emily Savage-Smith *Lost Maps of the Caliphs: Drawing the World in Eleventh-Century Cairo*, (Chicago: University of Chicago Press, 2018).
 
-[Yossef Rapoport](https://www.egylandscape.org/members/YossefRapoport/), *Rural Economy and Tribal Society in Islamic Egypt: A Study of al-Nābulusī's 'Villages of the* *Fayyum'* (Turnhout: Brepols, 2018).
+---, *Rural Economy and Tribal Society in Islamic Egypt: A Study of al-Nābulusī's 'Villages of the* *Fayyum'* (Turnhout: Brepols, 2018).
 
-[Yossef Rapoport](https://www.egylandscape.org/members/YossefRapoport/) and Ido Shahar, *The Villages of the Fayyum: A Thirteenth-Century Register of Rural, Islamic Egypt* (Turnhout: Brepols, 2018).
+--- &  Ido Shahar, *The Villages of the Fayyum: A Thirteenth-Century Register of Rural, Islamic Egypt* (Turnhout: Brepols, 2018).
 
 [Muhammad Hafez Shaaban](https://www.egylandscape.org/members/MuhammadShaaban/), "The Curious Case of a Fourteenth-Century Madrasa: Agency, Patronage and the Foundation of the Madrasa of Umm al-Ṣultān Sha'bān," in *Living with Nature and Things: Contributions to a New Social History of the Middle Islamic Periods*, ed. by Bethany J. Walker and Abdelkader Al Ghouz (Göttingen: V&R Unipress, 2020): pp. 285-310.
 
@@ -101,10 +104,10 @@ Period," *Mamluk Studies Review*, 18 (2014-2015): pp. 279-299.
 
 [Bethany Walker](https://www.egylandscape.org/members/BethanyWalker/) and Abdelkader Al Ghouz, eds., *Living with Nature and Things: Contributions to a New Social History of the Middle Islamic Periods* (Göttingen: V&R Unipress, 2020).
 
-[Bethany Walker](https://www.egylandscape.org/members/BethanyWalker/), "The Struggle Over Water: Evaluating the 'Water Culture' of Syrian Peasants under Mamluk Rule," in *Developing Perspectives in Mamluk History*, ed. by Yuval Ben-Bassat (Leiden: Brill, 2017): pp. 287-310.
+---, "The Struggle Over Water: Evaluating the 'Water Culture' of Syrian Peasants under Mamluk Rule," in *Developing Perspectives in Mamluk History*, ed. by Yuval Ben-Bassat (Leiden: Brill, 2017): pp. 287-310.
 
 [Gregory Williams](https://www.egylandscape.org/members/GregoryWilliams/) "Medieval ceramics from Aswan," *Bulletin de liaison de la céramique égyptienne* 28 (2019): pp. 297-306.
 
 ---, "Medieval Elephantine reconsidered," pp. *Bulletin de liaison de la céramique égyptienne* 28 (2019): 307-314.
 
-[Gregory Williams](https://www.egylandscape.org/members/GregoryWilliams/) and Anthony Quickel, "In Search of *Sibākh*: Digging Up Egypt from Antiquity to the Present Day," *Journal of Islamic Archaeology* 3(1), (2016): pp. 89-108.
+--- & Anthony Quickel, "In Search of *Sibākh*: Digging Up Egypt from Antiquity to the Present Day," *Journal of Islamic Archaeology* 3(1), (2016): pp. 89-108.
