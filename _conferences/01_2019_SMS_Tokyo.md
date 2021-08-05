@@ -1,6 +1,7 @@
 ---
 title: "Sixth Conference of the School of Mamluk Studies - 2019"
 excerpt: "Waseda University, Tokyo (Japan)"
+avatar: "/assets/images/conference_avatar_tokyo.png"
 toc: true
 toc_sticky: true
 layout: single
