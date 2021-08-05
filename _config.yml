@@ -345,6 +345,14 @@ defaults:
       layout: single
       author_profile: true
       share: false
+  # _lectures
+  - scope:
+      path: ""
+      type: lectures
+    values:
+      layout: single
+      author_profile: false
+      share: false
   # _contact
   - scope:
       path: ""
