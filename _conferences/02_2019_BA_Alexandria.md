@@ -1,6 +1,7 @@
 ---
 title: "Islamic Civilization Studies Center (Bibliotheca Alexandrina) - 2019"
 excerpt: "Bibliotheca Alexandrina, Alexandria (Egypt)"
+avatar: "/assets/images/conference_avatar_alexandria.png"
 toc: true
 toc_sticky: true
 layout: single
