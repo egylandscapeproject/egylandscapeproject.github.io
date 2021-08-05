@@ -4,7 +4,6 @@ excerpt: "Richard McGregor"
 institution: "Vanderbilt University"
 avatar: "/assets/images/lectures/richardmcGregor.png"
 author_profile: false
-type: "Working Paper"
 date: 2021-06-21
 layout: single
 ---
