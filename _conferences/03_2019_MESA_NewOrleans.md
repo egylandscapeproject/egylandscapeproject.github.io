@@ -1,6 +1,7 @@
 ---
 title: "53rd Annual Meeting of the Middle East Studies Association - 2019"
 excerpt: "New Orleans, Louisiana (USA)"
+avatar: "/assets/images/conference_avatar_neworleans.png"
 toc: true
 toc_sticky: true
 layout: single
