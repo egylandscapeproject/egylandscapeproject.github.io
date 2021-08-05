@@ -1,10 +1,9 @@
 ---
 title: "Medieval Nile Boats: Evolution and change in Nilotic Boats during Mamluk and Ottoman Egypt"
-excerpt: "Ziad M. Morsy
+excerpt: "Ziad M. Morsy"
 institution: "Southampton University"
 avatar: "/assets/images/lectures/ziadmorsy.png"
 author_profile: false
-type: "Working Paper"
 date: 2021-07-15
 layout: single
 ---
