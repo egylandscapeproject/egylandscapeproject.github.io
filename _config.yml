@@ -229,6 +229,9 @@ collections:
   workshops:
     output: true
     permalink: /:collection/:path/
+  lectures:
+    output: true
+    permalink: /:collection/:path/
     
 
 # Sass/SCSS
