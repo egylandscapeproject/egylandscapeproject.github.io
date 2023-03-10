@@ -7,7 +7,9 @@ main:
       - title: "About"
         url: /about/
       - title: "Team Members"
-        url: /members/  
+        url: /members/
+      - title: "webGIS"
+        url: /webGIS/  
   - title: Activities
     sublinks:
       - title: "Workshops"
