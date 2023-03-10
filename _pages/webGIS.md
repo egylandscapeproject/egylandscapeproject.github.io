@@ -1,8 +1,8 @@
 ---
 title: "EGYLandscape webGIS"
 excerpt: "Dive into the Mamluk and Ottoman Egypt Landscape Transformations"
-toc: true
-toc_sticky: true
+toc: false
+toc_sticky: false
 layout: single
 permalink: /webGIS/
 header:
