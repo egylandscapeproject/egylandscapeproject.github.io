@@ -4,7 +4,7 @@ excerpt: "Nature and Land - 2021"
 avatar: "/assets/images/conference_avatar_alexandria.png"
 toc: true
 toc_sticky: true
-institution: "Institut Français d’Égypte"
+institution: "Philipps Universität-Marburg"
 layout: single
 gallery:
   - url: /assets/images/workshops/Marburg_EGY_Sept__001.jpeg
@@ -30,14 +30,18 @@ gallery:
 
 {% include gallery caption="Photos From The Third Workshop of the EGYLandscape Project" %}
 
-## Closing Conference of the EGYLandscape Project: Final Reports
-**Aix-Marseille University, Aix-en-Provence, France**
-*6-8 September 2022*
+## Third Workshop of the EGYLandscape Project: Nature and Land![image]
+**Institut Français d’Égypte, Alexandria, Egypt**
+*3-5 September 2019*
 
-[*Download Program Here*](https://www.egylandscape.org/workshops/EGYLandscape_AixProvence2022_Workshop_Program.pdf)
+[*Download Program Here*](https://www.egylandscape.org/workshops/EGYLandscape_Alexandria2021_Workshop_Program.pdf)
 
-[*Download Flier Here*](https://www.egylandscape.org/workshops/EGYLandscapes_AixProvence2022_Flier.jpg)
+[*Download Flier Here*](https://www.egylandscape.org/workshops/EGYLandscapes_Alexandria_Flier.jpg)
 
-The final conference of the EGYLandscape Project was organized by project leader Nicolas Michel (Aix-Marseille University) and hosted in Aix-en-Provence. It was a wonderful opportunity for the EGYLandscape team to come together for one last time and share everyone’s work. Because all of the session were shared online, we had project participants meeting together both in person and virtually. The meeting began in the evening of 6 September with a welcome by the project leaders and a keynote lecture by Prof. Nelly Hanna of the American University in Cairo.
+The third workshop of the EGYLandscape Project was held in Alexandria, Egypt. It was a great opportunity for the project team to gather together after the disruption of the pandemic and the virtual 2020 workshop. The three-day workshop featured three parts: a training, paper presentations, and a field trip to Rosetta. ![image](https://user-images.githubusercontent.com/5506923/224440192-0367f2a8-3fd8-4429-aa26-47966378d1e8.png)
 
-The next two days of the conference featured presentations of the findings of the various projects the team had been working on over the past three years. Sessions included: Geoarcheology, Geohistory, and Landscape; Tribes and Bedouins; Economy; Land Status and Fiscality; Animals, Mankind, and Hunting; and Landscape. After the final session, our project research engineer presented the webGIS, which is nearly ready and will be online in the spring of 2023. Albrecht Fuess and Nicolas Michel presented closing remarks for both the conference and the project, and the group gathered for a final reception and project toast.
+The training session, which was open to graduate students and recent PhDs from Egyptian universities, started with a project overview by our leaders Albrecht Fuess (University of Marburg) and Nicolas Michel (Aix-Marseille University). The first training session — “Geography and History: Exploring Middle Egypt Through a Variety of Sources” — was led by Nicolas Michel and Magdi Guirguis (Kafr al-Sheikh University) and explored the different source material, from texts to maps, available for the study of Middle Egypt. After lunch, Ghislaine Alleaume (Aix-Marseille University / IREMAM) led session two — “Maps as Tolls for Studying the Western Delta” — which taught participants about the ways in which maps could be used, both conventionally and otherwise, as a source for the study of regional history. Finally, in the last session, colleagues from the Centre d’études Alexandrines (CeAlex) talked about their work in surveying and mapping Lake Mareotis, which served as a great case study to wrap up the days sessions. 
+
+The second day of the gathering featured papers from our team members on topics ranging from land-use and weather to flora, fauna, and engineering during the Mamluk and Ottoman periods. Like the previous workshops, it was a great opportunity to catch up on each other’s in-progress research, discuss idea, and learn. 
+
+On the workshop’s final day, participants made an excursion to the city of Rosetta (Rashid). There they visited to mouth of the Nile, where its one branch flows into the Mediterranean, the historic citadel, where the Rosetta Stone was found, some beautifully restored homes in the old city center, and two historic mosques.
