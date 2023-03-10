@@ -4,7 +4,7 @@ excerpt: "Final Reports - 2022"
 avatar: "/assets/images/conference_avatar_Aix.png"
 toc: true
 toc_sticky: true
-institution: "Institut Français d’Égypte"
+institution: "Aix-Marseille University"
 layout: single
 gallery:
   - url: /assets/images/workshops/Marburg_EGY_Sept__001.jpeg
