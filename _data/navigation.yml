@@ -20,6 +20,8 @@ main:
         url: /lectures/
   - title: Research
     sublinks:
+      - title: "Publications"
+        url: /publications/
       - title: "Working Papers"
         url: /papers/
       - title: "Bibliography"
