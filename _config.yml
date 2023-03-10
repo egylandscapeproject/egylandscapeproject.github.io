@@ -232,7 +232,9 @@ collections:
   lectures:
     output: true
     permalink: /:collection/:path/
-    
+  publications:
+    output: true
+    permalink: /:collection/:path/    
 
 # Sass/SCSS
 sass:
