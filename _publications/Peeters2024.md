@@ -5,8 +5,8 @@ institution: "Peeters"
 avatar: "/assets/images/working_paper_avatars2.png"
 author_profile: false
 type: "Publication"
-toc: true
-toc_sticky: true
+toc: false
+toc_sticky: false
 date: 2023-01-01
 layout: single
 ---
