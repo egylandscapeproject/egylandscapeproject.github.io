@@ -2,8 +2,8 @@
 title: "Closing Conference of the EGYLandscape Project"
 excerpt: "Final Reports - 2022"
 avatar: "/assets/images/conference_avatar_Aix.png"
-toc: true
-toc_sticky: true
+toc: false
+toc_sticky: false
 institution: "Aix-Marseille University"
 layout: single
 gallery:
