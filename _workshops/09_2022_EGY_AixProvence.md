@@ -25,7 +25,7 @@ gallery:
   - url: /assets/images/workshops/Aix_EGY_006.jpg
     image_path: /assets/images/workshops/Aix_EGY_006.jpg
     alt: "placeholder image 6"
-    - url: /assets/images/workshops/Aix_EGY_007.jpg
+  - url: /assets/images/workshops/Aix_EGY_007.jpg
     image_path: /assets/images/workshops/Aix_EGY_007.jpg
     alt: "placeholder image 7"
   - url: /assets/images/workshops/Aix_EGY_008.jpg
