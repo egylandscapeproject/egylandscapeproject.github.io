@@ -7,24 +7,42 @@ toc_sticky: true
 institution: "Aix-Marseille University"
 layout: single
 gallery:
-  - url: /assets/images/workshops/Marburg_EGY_Sept__001.jpeg
-    image_path: /assets/images/workshops/Marburg_EGY_Sept_001.jpeg
+  - url: /assets/images/workshops/Aix_EGY_001.jpg
+    image_path: /assets/images/workshops/Aix_EGY_001.jpg
     alt: "placeholder image 1"
-  - url: /assets/images/workshops/Marburg_EGY_Sept_002.jpeg
-    image_path: /assets/images/workshops/Marburg_EGY_Sept_002.jpeg
+  - url: /assets/images/workshops/Aix_EGY_002.jpg
+    image_path: /assets/images/workshops/Aix_EGY_002.jpg
     alt: "placeholder image 2"
-  - url: /assets/images/workshops/Marburg_EGY_Sept__003.jpeg
-    image_path: /assets/images/workshops/Marburg_EGY_Sept_003.jpeg
+  - url: /assets/images/workshops/Aix_EGY_003.jpg
+    image_path: /assets/images/workshops/Aix_EGY_003.jpg
     alt: "placeholder image 3"
-  - url: /assets/images/workshops/Marburg_EGY_Sept_004.jpeg
-    image_path: /assets/images/workshops/Marburg_EGY_Sept_004.jpeg
+  - url: /assets/images/workshops/Aix_EGY_004.jpg
+    image_path: /assets/images/workshops/Aix_EGY_004.jpg
     alt: "placeholder image 4"
-  - url: /assets/images/workshops/Marburg_EGY_Sept_008.jpeg
-    image_path: /assets/images/workshops/Marburg_EGY_Sept_008.jpeg
+  - url: /assets/images/workshops/Aix_EGY_005.jpg
+    image_path: /assets/images/workshops/Aix_EGY_008.jpg
     alt: "placeholder image 5"
-  - url: /assets/images/workshops/Marburg_EGY_Sept_006.jpeg
-    image_path: /assets/images/workshops/Marburg_EGY_Sept_006.jpeg
+  - url: /assets/images/workshops/Aix_EGY_006.jpg
+    image_path: /assets/images/workshops/Aix_EGY_006.jpg
     alt: "placeholder image 6"
+    - url: /assets/images/workshops/Aix_EGY_007.jpg
+    image_path: /assets/images/workshops/Aix_EGY_007.jpg
+    alt: "placeholder image 7"
+  - url: /assets/images/workshops/Aix_EGY_008.jpg
+    image_path: /assets/images/workshops/Aix_EGY_008.jpg
+    alt: "placeholder image 8"
+  - url: /assets/images/workshops/Aix_EGY_009.jpg
+    image_path: /assets/images/workshops/Aix_EGY_009.jpg
+    alt: "placeholder image 9"
+  - url: /assets/images/workshops/Aix_EGY_010.jpg
+    image_path: /assets/images/workshops/Aix_EGY_010.jpg
+    alt: "placeholder image 10"
+  - url: /assets/images/workshops/Aix_EGY_011.jpg
+    image_path: /assets/images/workshops/Aix_EGY_011.jpg
+    alt: "placeholder image 11"
+  - url: /assets/images/workshops/Aix_EGY_012.jpg
+    image_path: /assets/images/workshops/Aix_EGY_012.jpg
+    alt: "placeholder image 12"
 
 ---
 
@@ -33,8 +51,6 @@ gallery:
 ## Closing Conference of the EGYLandscape Project: Final Reports
 **Aix-Marseille University, Aix-en-Provence, France**
 *6-8 September 2022*
-
-[*Download Program Here*](https://www.egylandscape.org/workshops/EGYLandscape_AixProvence2022_Workshop_Program.pdf)
 
 [*Download Flier Here*](https://www.egylandscape.org/workshops/EGYLandscapes_AixProvence2022_Flier.jpg)
 
