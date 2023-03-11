@@ -35,7 +35,7 @@ gallery:
 
 {% include gallery caption="Photos From The Third Workshop of the EGYLandscape Project" %}
 
-## Third Workshop of the EGYLandscape Project: Nature and Land![image]
+## Third Workshop of the EGYLandscape Project: Nature and Land
 **Institut Français d’Égypte, Alexandria, Egypt**
 *3-5 September 2019*
 
