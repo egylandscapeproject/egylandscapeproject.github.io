@@ -2,8 +2,8 @@
 title: "Third Workshop of the EGYLandscape Project"
 excerpt: "Nature and Land - 2021"
 avatar: "/assets/images/conference_avatar_alexandria.png"
-toc: true
-toc_sticky: true
+toc: false
+toc_sticky: false
 institution: "Philipps Universität-Marburg"
 layout: single
 gallery:
