@@ -7,25 +7,30 @@ toc_sticky: true
 institution: "Philipps Universität-Marburg"
 layout: single
 gallery:
-  - url: /assets/images/workshops/Marburg_EGY_Sept__001.jpeg
-    image_path: /assets/images/workshops/Marburg_EGY_Sept_001.jpeg
+  - url: /assets/images/workshops/Alexandria_EGY_001.jpeg
+    image_path: /assets/images/workshops/Alexandria_EGY_001.jpeg
     alt: "placeholder image 1"
-  - url: /assets/images/workshops/Marburg_EGY_Sept_002.jpeg
-    image_path: /assets/images/workshops/Marburg_EGY_Sept_002.jpeg
+  - url: /assets/images/workshops/Alexandria_EGY_002.jpeg
+    image_path: /assets/images/workshops/Alexandria_EGY_002.jpeg
     alt: "placeholder image 2"
-  - url: /assets/images/workshops/Marburg_EGY_Sept__003.jpeg
-    image_path: /assets/images/workshops/Marburg_EGY_Sept_003.jpeg
+  - url: /assets/images/workshops/Alexandria_EGY_003.jpeg
+    image_path: /assets/images/workshops/Alexandria_EGY_003.jpeg
     alt: "placeholder image 3"
-  - url: /assets/images/workshops/Marburg_EGY_Sept_004.jpeg
-    image_path: /assets/images/workshops/Marburg_EGY_Sept_004.jpeg
+  - url: /assets/images/workshops/Alexandria_EGY_004.jpeg
+    image_path: /assets/images/workshops/Alexandria_EGY_004.jpeg
     alt: "placeholder image 4"
-  - url: /assets/images/workshops/Marburg_EGY_Sept_008.jpeg
-    image_path: /assets/images/workshops/Marburg_EGY_Sept_008.jpeg
+  - url: /assets/images/workshops/Alexandria_EGY_005.jpeg
+    image_path: /assets/images/workshops/Alexandria_EGY_005.jpeg
     alt: "placeholder image 5"
-  - url: /assets/images/workshops/Marburg_EGY_Sept_006.jpeg
-    image_path: /assets/images/workshops/Marburg_EGY_Sept_006.jpeg
+  - url: /assets/images/workshops/Alexandria_EGY_006.jpeg
+    image_path: /assets/images/workshops/Alexandria_EGY_006.jpeg
     alt: "placeholder image 6"
-
+  - url: /assets/images/workshops/Alexandria_EGY_007.jpeg
+    image_path: /assets/images/workshops/Alexandria_EGY_007.jpeg
+    alt: "placeholder image 7"
+  - url: /assets/images/workshops/Alexandria_EGY_008.jpeg
+    image_path: /assets/images/workshops/Alexandria_EGY_008.jpeg
+    alt: "placeholder image 8"
 ---
 
 {% include gallery caption="Photos From The Third Workshop of the EGYLandscape Project" %}
@@ -36,7 +41,7 @@ gallery:
 
 [*Download Program Here*](https://www.egylandscape.org/workshops/EGYLandscape_Alexandria2021_Workshop_Program.pdf)
 
-[*Download Flier Here*](https://www.egylandscape.org/workshops/EGYLandscapes_Alexandria_Flier.jpg)
+[*Download Flier Here*](https://www.egylandscape.org/workshops/EGYLandscapes_Alexandria_Flier.png)
 
 The third workshop of the EGYLandscape Project was held in Alexandria, Egypt. It was a great opportunity for the project team to gather together after the disruption of the pandemic and the virtual 2020 workshop. The three-day workshop featured three parts: a training, paper presentations, and a field trip to Rosetta. ![image](https://user-images.githubusercontent.com/5506923/224440192-0367f2a8-3fd8-4429-aa26-47966378d1e8.png)
 
