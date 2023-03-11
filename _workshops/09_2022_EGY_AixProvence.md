@@ -20,7 +20,7 @@ gallery:
     image_path: /assets/images/workshops/Aix_EGY_004.jpg
     alt: "placeholder image 4"
   - url: /assets/images/workshops/Aix_EGY_005.jpg
-    image_path: /assets/images/workshops/Aix_EGY_008.jpg
+    image_path: /assets/images/workshops/Aix_EGY_005.jpg
     alt: "placeholder image 5"
   - url: /assets/images/workshops/Aix_EGY_006.jpg
     image_path: /assets/images/workshops/Aix_EGY_006.jpg
