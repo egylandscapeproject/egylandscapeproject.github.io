@@ -1,7 +1,7 @@
 ---
 title: "Eighth Conference of the School of Mamluk Studies - 2022"
 excerpt: "Philipps-Universität Marburg, Marburg, (Germany)"
-avatar: "/assets/images/conference_avatar_tokyo.png"
+avatar: "/assets/images/conference_avatar_marburg.png"
 toc: true
 toc_sticky: true
 layout: single
