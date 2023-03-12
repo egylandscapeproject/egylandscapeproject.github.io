@@ -6,12 +6,48 @@ toc: true
 toc_sticky: true
 layout: single
 gallery:
-  - url: /assets/images/conferences/2019_SMS_Tokyo_001.JPG
-    image_path: /assets/images/conferences/2019_SMS_Tokyo_001.JPG
+  - url: /assets/images/conferences/2022_SMS_Marburg_001.jpeg
+    image_path: /assets/images/conferences/2022_SMS_Marburg_001.jpeg
     alt: "placeholder image 1"
-  - url: /assets/images/conferences/2019_SMS_Tokyo_002.JPG
-    image_path: /assets/images/conferences/2019_SMS_Tokyo_002.JPG
+  - url: /assets/images/conferences/2022_SMS_Marburg_002.jpeg
+    image_path: /assets/images/conferences/2022_SMS_Marburg_002.jpeg
     alt: "placeholder image 2"
+  - url: /assets/images/conferences/2022_SMS_Marburg_003.jpeg
+    image_path: /assets/images/conferences/2022_SMS_Marburg_003.jpeg
+    alt: "placeholder image 3"
+  - url: /assets/images/conferences/2022_SMS_Marburg_004.jpeg
+    image_path: /assets/images/conferences/2022_SMS_Marburg_004.jpeg
+    alt: "placeholder image 4"
+  - url: /assets/images/conferences/2022_SMS_Marburg_005.jpeg
+    image_path: /assets/images/conferences/2022_SMS_Marburg_005.jpeg
+    alt: "placeholder image 5"
+  - url: /assets/images/conferences/2022_SMS_Marburg_006.jpeg
+    image_path: /assets/images/conferences/2022_SMS_Marburg_006.jpeg
+    alt: "placeholder image 6"
+  - url: /assets/images/conferences/2022_SMS_Marburg_007.jpeg
+    image_path: /assets/images/conferences/2022_SMS_Marburg_007.jpeg
+    alt: "placeholder image 7"
+  - url: /assets/images/conferences/2022_SMS_Marburg_008.jpeg
+    image_path: /assets/images/conferences/2022_SMS_Marburg_008.jpeg
+    alt: "placeholder image 8"
+  - url: /assets/images/conferences/2022_SMS_Marburg_009.jpeg
+    image_path: /assets/images/conferences/2022_SMS_Marburg_009.jpeg
+    alt: "placeholder image 9"
+  - url: /assets/images/conferences/2022_SMS_Marburg_010.jpeg
+    image_path: /assets/images/conferences/2022_SMS_Marburg_010.jpeg
+    alt: "placeholder image 10"
+  - url: /assets/images/conferences/2022_SMS_Marburg_011.jpeg
+    image_path: /assets/images/conferences/2022_SMS_Marburg_011.jpeg
+    alt: "placeholder image 11"
+  - url: /assets/images/conferences/2022_SMS_Marburg_012.jpeg
+    image_path: /assets/images/conferences/2022_SMS_Marburg_012.jpeg
+    alt: "placeholder image 12"
+  - url: /assets/images/conferences/2022_SMS_Marburg_013.jpeg
+    image_path: /assets/images/conferences/2022_SMS_Marburg_013.jpeg
+    alt: "placeholder image 13"
+  - url: /assets/images/conferences/2022_SMS_Marburg_014.jpeg
+    image_path: /assets/images/conferences/2022_SMS_Marburg_014.jpeg
+    alt: "placeholder image 14"
 ---
 
 {% include gallery caption="Photos From The Eighth Conference of the School of Mamluk Studies" %}
