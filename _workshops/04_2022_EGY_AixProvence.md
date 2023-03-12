@@ -22,26 +22,26 @@ gallery:
   - url: /assets/images/workshops/Aix_EGY_005.jpg
     image_path: /assets/images/workshops/Aix_EGY_005.jpg
     alt: "placeholder image 5"
-  - url: /assets/images/workshops/Aix_EGY_006.jpg
-    image_path: /assets/images/workshops/Aix_EGY_006.jpg
+  - url: /assets/images/workshops/Aix_EGY_006.jpeg
+    image_path: /assets/images/workshops/Aix_EGY_006.jpeg
     alt: "placeholder image 6"
-  - url: /assets/images/workshops/Aix_EGY_007.jpg
-    image_path: /assets/images/workshops/Aix_EGY_007.jpg
+  - url: /assets/images/workshops/Aix_EGY_007.jpeg
+    image_path: /assets/images/workshops/Aix_EGY_007.jpeg
     alt: "placeholder image 7"
-  - url: /assets/images/workshops/Aix_EGY_008.jpg
-    image_path: /assets/images/workshops/Aix_EGY_008.jpg
+  - url: /assets/images/workshops/Aix_EGY_008.jpeg
+    image_path: /assets/images/workshops/Aix_EGY_008.jpeg
     alt: "placeholder image 8"
-  - url: /assets/images/workshops/Aix_EGY_009.jpg
-    image_path: /assets/images/workshops/Aix_EGY_009.jpg
+  - url: /assets/images/workshops/Aix_EGY_009.jpeg
+    image_path: /assets/images/workshops/Aix_EGY_009.jpeg
     alt: "placeholder image 9"
-  - url: /assets/images/workshops/Aix_EGY_010.jpg
-    image_path: /assets/images/workshops/Aix_EGY_010.jpg
+  - url: /assets/images/workshops/Aix_EGY_010.jpeg
+    image_path: /assets/images/workshops/Aix_EGY_010.jpeg
     alt: "placeholder image 10"
-  - url: /assets/images/workshops/Aix_EGY_011.jpg
-    image_path: /assets/images/workshops/Aix_EGY_011.jpg
+  - url: /assets/images/workshops/Aix_EGY_011.jpeg
+    image_path: /assets/images/workshops/Aix_EGY_011.jpeg
     alt: "placeholder image 11"
-  - url: /assets/images/workshops/Aix_EGY_012.jpg
-    image_path: /assets/images/workshops/Aix_EGY_012.jpg
+  - url: /assets/images/workshops/Aix_EGY_012.jpeg
+    image_path: /assets/images/workshops/Aix_EGY_012.jpeg
     alt: "placeholder image 12"
 
 ---
