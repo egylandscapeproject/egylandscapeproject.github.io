@@ -29,7 +29,7 @@ gallery:
     image_path: /assets/images/workshops/Alexandria_EGY_007.jpeg
     alt: "placeholder image 7"
   - url: /assets/images/workshops/Alexandria_EGY_008.jpg
-    image_path: /assets/images/workshops/Alexandria_EGY_008.jpg
+    image_path: /assets/images/workshops/Alexandria_EGY_008.jpeg
     alt: "placeholder image 8"
 ---
 
