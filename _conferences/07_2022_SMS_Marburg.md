@@ -52,6 +52,12 @@ gallery:
 
 {% include gallery caption="Photos From The Eighth Conference of the School of Mamluk Studies" %}
 
+[*Download Conference Poster Here*](https://www.egylandscape.org/assets/images/conferences/School_Mamluk_Studies_Poster_A4.jpeg)
+
+[*Download Conference Program Here*](https://www.egylandscape.org/assets/images/conferences/ConferenceProgram_ SMS8_Marburg2022.pdf)
+
+[*Download Intensive Course Program Here*](https://www.egylandscape.org/assets/images/conferences/IntensiveCourseProgram_ SMS8_Marburg2022.pdf)
+
 ## Eighth Conference of the School of Mamluk Studies
 **Philipps-Universität Marburg, Marburg, Germany**
 *4-9th July 2022*
