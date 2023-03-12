@@ -110,8 +110,8 @@ project: transformations in agriculture, landscapes, and ecology.
 To this end, the EGYLandscape Project is hosting four annual workshops:
 - [x] Marburg (2019)
 - [x] ~~Cairo~~ (2020) Virtual Due to COVID-19
-- [ ] Alexandria (2021)
-- [ ] Aix-en-Provence (2022).
+- [x] Alexandria (2021)
+- [x] Aix-en-Provence (2022).
 
 More information about these workshops and other activities is
 available on this site.
