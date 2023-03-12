@@ -52,15 +52,17 @@ gallery:
 
 {% include gallery caption="Photos From The Eighth Conference of the School of Mamluk Studies" %}
 
-[*Download Conference Poster Here*](https://www.egylandscape.org/assets/images/conferences/School_Mamluk_Studies_Poster_A4.jpeg)
-
-[*Download Conference Program Here*](https://www.egylandscape.org/assets/images/conferences/ConferenceProgram_ SMS8_Marburg2022.pdf)
-
-[*Download Intensive Course Program Here*](https://www.egylandscape.org/assets/images/conferences/IntensiveCourseProgram_ SMS8_Marburg2022.pdf)
+[*Download Conference Poster Here*](https://www.egylandscape.org/conferences/School_Mamluk_Studies_Poster_A4.jpeg)
+[*Download Conference Program Here*](https://www.egylandscape.org/conferences/ConferenceProgram_ SMS8_Marburg2022.pdf)
+[*Download Intensive Course Program Here*](https://www.egylandscape.org/conferences/IntensiveCourseProgram_ SMS8_Marburg2022.pdf)
 
 ## Eighth Conference of the School of Mamluk Studies
 **Philipps-Universität Marburg, Marburg, Germany**
 *4-9th July 2022*
+
+[*Download Conference Poster Here*](https://www.egylandscape.org/assets/images/conferences/School_Mamluk_Studies_Poster_A4.jpeg)
+[*Download Conference Program Here*](https://www.egylandscape.org/assets/images/conferences/ConferenceProgram_ SMS8_Marburg2022.pdf)
+[*Download Intensive Course Program Here*](https://www.egylandscape.org/assets/images/conferences/IntensiveCourseProgram_ SMS8_Marburg2022.pdf)
 
 The EGYLandscape Project alongside the department of Islamic Studies of the University of Marburg hosted the Eighth Conference of the School of Mamluk Studies. The conference is held at a different location each year and features both an intensive course for graduate students as well as a three-day conference on Mamluk Studies. EGYLandscape Project leader and coordinator Albrecht Fuess and Anthony Quickel helped to plan and organize the intensive course and the conference’s themed day around the topic of “Environment and Nature in the Mamluk Sultanate”. 
 
