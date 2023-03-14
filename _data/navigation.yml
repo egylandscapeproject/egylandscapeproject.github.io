@@ -26,7 +26,5 @@ main:
         url: /papers/
       - title: "Bibliography"
         url: /bibliography/
-  - title: "Blog"
-    url: /blog/
   - title: "Contact Us"
     url: /contact/    
